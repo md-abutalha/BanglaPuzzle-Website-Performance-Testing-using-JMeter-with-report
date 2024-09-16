@@ -1,0 +1,14 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1726464724764,3723,https://www.banglapuzzle.com/products,200,OK,Thread Group 1-1,text,true,,141985,575,1,1,https://www.banglapuzzle.com/products,3563,0,2674
+1726464724542,3723,products,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,141985,575,1,1,null,3563,235,2674
+1726464741196,1438,https://www.banglapuzzle.com/services,200,OK,Thread Group 1-1,text,true,,196223,1274,1,1,https://www.banglapuzzle.com/services,619,0,0
+1726464728500,1438,service,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,196223,1274,1,1,null,619,12700,0
+1726464778285,1030,https://www.banglapuzzle.com/industry/healthcare,200,OK,Thread Group 1-1,text,true,,189176,1285,1,1,https://www.banglapuzzle.com/industry/healthcare,801,0,0
+1726464742639,1030,healthcare,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,189176,1285,1,1,null,801,35650,0
+1726464793013,1297,https://www.banglapuzzle.com/news,200,OK,Thread Group 1-1,text,true,,138919,1270,1,1,https://www.banglapuzzle.com/news,1104,0,356
+1726464815196,1025,https://www.banglapuzzle.com/about,200,OK,Thread Group 1-1,text,true,,148322,1271,1,1,https://www.banglapuzzle.com/about,806,0,0
+1726464779318,2322,news,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,287241,2541,1,1,null,1910,34591,356
+1726464832807,1486,https://www.banglapuzzle.com/contact,200,OK,Thread Group 1-1,text,true,,182802,1273,1,1,https://www.banglapuzzle.com/contact,785,0,0
+1726464816232,1486,contact,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,182802,1273,1,1,null,785,16580,0
+1726464850636,990,https://www.banglapuzzle.com/hire,200,OK,Thread Group 1-1,text,true,,165644,1270,1,1,https://www.banglapuzzle.com/hire,798,0,0
+1726464834298,990,hire,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,165644,1270,1,1,null,798,16343,0
